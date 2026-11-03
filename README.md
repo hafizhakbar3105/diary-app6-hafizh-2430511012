@@ -2,11 +2,11 @@
 
 **Mata Kuliah:** Mobile Programming
 
-**Nama:** [Muhammad Hafizh Akbar Solehudin]
+**Nama:** Muhammad Hafizh Akbar Solehudin
 
 **NIM:** 2430511012
 
-**Link Repository GitHub:** [Masukkan Link GitHub Anda di sini]
+**Link Repository GitHub:** https://github.com/hafizhakbar3105/diary-app6-hafizh-2430511012.git
 
 ## 🛠️ Penjelasan 5 React Hooks yang Digunakan
 
